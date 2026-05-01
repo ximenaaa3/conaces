@@ -27,7 +27,7 @@ El corpus se construyó a partir de las grabaciones en video de las 17 sesiones 
 
 **Fase 4. Estructuración tabular.** Las transcripciones corregidas se transfirieron a hojas de cálculo Excel con dos columnas: *Participante* y *Diálogo*. Al término de esta fase se contaba con 17 archivos Excel individuales.
 
-**Fase 5. Unificación del corpus.** Mediante un script automatizado generado con asistencia de inteligencia artificial en [Cursor](https://cursor.com) se consolidaron los 17 archivos en un único CSV y se normalizó tipográficamente el texto (eliminación de tildes y caracteres especiales).
+**Fase 5. Unificación del corpus.** Mediante scripts automatizados generados con asistencia de inteligencia artificial en [Cursor](https://cursor.com) se realizaron tres tareas: (1) la construcción de un diccionario de valores únicos para normalizar los nombres de los participantes, unificando todas sus variantes en una sola forma; (2) la consolidación de los 17 archivos en un único CSV; y (3) la normalización tipográfica del texto (eliminación de tildes y caracteres especiales).
 
 **Fase 6. Análisis temático.** El CSV unificado fue procesado en [Broad Listening](https://broadlistening.org), plataforma que identifica temas recurrentes y sintetiza afirmaciones con trazabilidad directa hacia las intervenciones originales. El reporte interactivo puede consultarse en: **[link al reporte de Broad Listening].**
 
