@@ -8,9 +8,11 @@ Los hallazgos de este análisis se presentan en el artículo: **[título del art
 
 ## ¿Qué encontrarás en este repositorio?
 
-- 17 transcripciones corregidas de las sesiones ordinarias, una por sesión, en formato Word (.docx)
-- 17 archivos de hoja de cálculo, uno por sesión, en formato Excel (.xlsx)
+- 17 transcripciones automáticas generadas por Notta.ai, una por sesión, en formato Word (.docx)
+- 13 transcripciones corregidas manualmente, en formato Word (.docx)
+- 17 archivos CSV individuales, uno por sesión
 - 1 archivo CSV unificado que consolida la totalidad del corpus de las 17 sesiones
+- Diccionario de valores únicos de participantes, en formato Word (.docx)
 - Esta documentación metodológica
 
 ---
