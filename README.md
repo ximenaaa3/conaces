@@ -37,4 +37,10 @@ El corpus se construyó a partir de las grabaciones en video de las 17 sesiones 
 
 ## Disponibilidad de materiales
 
-Todos los archivos generados durante el proceso están disponibles en este repositorio para su consulta y descarga libre.
+Todos los archivos generados durante el proceso están disponibles para su consulta y descarga libre:
+
+- [Transcripciones automáticas (Notta.ai)](https://github.com/ximenaaa3/conaces/tree/main/transcripciones-automaticas)
+- [Transcripciones corregidas](https://github.com/ximenaaa3/conaces/tree/main/transcripciones-corregidas)
+- [Archivos CSV por sesión](https://github.com/ximenaaa3/conaces/tree/main/sesiones-csv)
+- [Corpus unificado (.csv)](https://github.com/ximenaaa3/conaces/blob/main/corpus_unificado.csv)
+- [Diccionario de valores únicos (.docx)](https://github.com/ximenaaa3/conaces/blob/main/Diccionario_valores_unicos.docx)
