@@ -44,3 +44,5 @@ Todos los archivos generados durante el proceso están disponibles para su consu
 - [Archivos CSV por sesión](https://github.com/ximenaaa3/conaces/tree/main/sesiones-csv)
 - [Corpus unificado (.csv)](https://github.com/ximenaaa3/conaces/blob/main/corpus_unificado.csv)
 - [Diccionario de valores únicos (.docx)](https://github.com/ximenaaa3/conaces/blob/main/Diccionario_valores_unicos.docx)
+
+> **Nota:** para descargar cualquier archivo, haz clic en el enlace correspondiente y luego usa el ícono de descarga (↓) ubicado en la esquina superior derecha de la página.-
